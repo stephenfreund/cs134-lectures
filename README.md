@@ -1,3 +1,4 @@
 # lecture-test
 
-bork bork bork
+moo
+
