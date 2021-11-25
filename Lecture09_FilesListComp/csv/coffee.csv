@@ -1,0 +1,12 @@
+kona,dickason,ambrosia,wonderbar,house
+kona,house,ambrosia,wonderbar,dickason
+kona,ambrosia,dickason,wonderbar,house
+kona,ambrosia,wonderbar,dickason,house
+house,kona,dickason,wonderbar,ambrosia
+kona,house,dickason,ambrosia,wonderbar
+kona,house,dickason,ambrosia,wonderbar
+dickason,ambrosia,wonderbar,kona,house
+house,kona,ambrosia,dickason,wonderbar
+ambrosia,house,wonderbar,kona,dickason
+wonderbar,ambrosia,kona,house,dickason
+house,wonderbar,kona,ambrosia,dickason

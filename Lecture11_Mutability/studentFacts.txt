@@ -1,0 +1,7 @@
+Fun facts about CS134 students:
+Students with most vowels in their name: Yaoyue, Olivia, Aleksander, Madeline.
+No. of first years in CS134: 18.
+No. of sophmores in CS134: 13.
+No. of juniors in CS134: 5
+No. of seniors in CS134: 0
+Goodbye.
