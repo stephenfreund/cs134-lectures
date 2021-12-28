@@ -1,5 +1,6 @@
 Fun facts about CS134 students:
 Students with most vowels in their name: Maymouna, Daniela, Nathaniel.
+Students with least vowels in their name: Will, Nick, Matt, Amy, Billy.
 No. of first years in CS134: 15.
 No. of sophmores in CS134: 14.
 No. of juniors in CS134: 5
